@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/number-guess/static/css/main.a4b8ed3e.css",
-    "main.js": "/number-guess/static/js/main.21cc6cdb.js",
+    "main.js": "/number-guess/static/js/main.fc462b3e.js",
     "static/media/jinie.png": "/number-guess/static/media/jinie.dc20a613dc537dee8e54.png",
     "index.html": "/number-guess/index.html",
     "main.a4b8ed3e.css.map": "/number-guess/static/css/main.a4b8ed3e.css.map",
-    "main.21cc6cdb.js.map": "/number-guess/static/js/main.21cc6cdb.js.map"
+    "main.fc462b3e.js.map": "/number-guess/static/js/main.fc462b3e.js.map"
   },
   "entrypoints": [
     "static/css/main.a4b8ed3e.css",
-    "static/js/main.21cc6cdb.js"
+    "static/js/main.fc462b3e.js"
   ]
 }
