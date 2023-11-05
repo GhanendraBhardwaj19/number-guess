@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/number-guess/static/css/main.a4b8ed3e.css",
-    "main.js": "/number-guess/static/js/main.fc462b3e.js",
-    "static/media/jinie.png": "/number-guess/static/media/jinie.dc20a613dc537dee8e54.png",
-    "index.html": "/number-guess/index.html",
-    "main.a4b8ed3e.css.map": "/number-guess/static/css/main.a4b8ed3e.css.map",
-    "main.fc462b3e.js.map": "/number-guess/static/js/main.fc462b3e.js.map"
+    "main.css": "/num-guess/static/css/main.a4b8ed3e.css",
+    "main.js": "/num-guess/static/js/main.d1f252f9.js",
+    "static/media/jinie.png": "/num-guess/static/media/jinie.dc20a613dc537dee8e54.png",
+    "index.html": "/num-guess/index.html",
+    "main.a4b8ed3e.css.map": "/num-guess/static/css/main.a4b8ed3e.css.map",
+    "main.d1f252f9.js.map": "/num-guess/static/js/main.d1f252f9.js.map"
   },
   "entrypoints": [
     "static/css/main.a4b8ed3e.css",
-    "static/js/main.fc462b3e.js"
+    "static/js/main.d1f252f9.js"
   ]
 }
